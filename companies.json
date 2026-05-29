@@ -8,5 +8,12 @@
       "joinCode": "STORIX01",
       "active": true
     }
+    {
+      "id": "Jedco",
+      "name": "مطارات جدة",
+      "joinCode": "jedcoooo",
+      "active": true
+    }
+
   ]
 }
