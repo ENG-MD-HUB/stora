@@ -1,0 +1,25 @@
+{
+  "name": "STORA",
+  "short_name": "STORA",
+  "description": "Warehouse Management System",
+  "start_url": "/Stora/",
+  "scope": "/Stora/",
+  "display": "standalone",
+  "background_color": "#080810",
+  "theme_color": "#080810",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/Stora/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Stora/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
