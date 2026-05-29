@@ -7,6 +7,12 @@
       "name": "شركتي",
       "joinCode": "STORIX01",
       "active": true
+    },
+    {
+      "id": "company_002",
+      "name": "Jeddah Airports Co.",
+      "joinCode": "JEDCOOOO",
+      "active": true
     }
   ]
 }
