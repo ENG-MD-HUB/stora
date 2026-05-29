@@ -1,15 +1,12 @@
-export const COMPANIES: CompanyConfig[] = [
-  {
-    id: 'company_001',
-    name: 'الشركة الأولى',
-    joinCode: 'STORIX01',
-    active: true,
-  },
-  // ← أضف هنا
-  {
-    id: 'company_002',        // رقم فريد لكل شركة
-    name: 'Jeddahairports',
-    joinCode: 'JEDCO001',     // الكود الذي يدخله الموظف
-    active: true,
-  },
-];
+{
+  "_comment": "هذا الملف يحدد الشركات المسموح لها بالتسجيل في STORA",
+  "_instructions": "لإضافة شركة جديدة: أضف كائن جديد في مصفوفة 'companies' ثم أعد رفع الملف",
+  "companies": [
+    {
+      "id": "company_001",
+      "name": "شركتي",
+      "joinCode": "STORIX01",
+      "active": true
+    }
+  ]
+}
