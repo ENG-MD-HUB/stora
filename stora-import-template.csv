@@ -1,0 +1,3 @@
+Name,Item Code,Project,Storage,Quantity,Unit,Min Threshold,Owner,Expiry Date (YYYY-MM-DD),Notes
+Steel Pipes,ITM-001,Project Alpha,Main Storage,100,pcs,10,John Smith,2025-12-31,Example item
+Cables,ITM-002,Project Beta,Warehouse B,50,meters,5,Jane Doe,,
